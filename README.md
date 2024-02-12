@@ -1,12 +1,12 @@
 # Skeleton Server for Google Speech To Text Service
 
 ## Server
-1. Navigate to server root in `ts-server/test-speech-server`
+1. Navigate to server root in `ts-server/test-speech-server/`
 2. `npm i`
 3. `npm run dev`
 
 ## Flutter Client
-1. Navigate to client root in `flutter-client`
+1. Navigate to client root in `flutter-client/mic_test/`
 2. `flutter pub get`
 3. `flutter run` and select the target device (you can select the simulator from here itself)
 ALTERNATIVELY
